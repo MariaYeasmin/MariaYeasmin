@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MariaYeasmin/MariaYeasmin/output/snake.svg" alt="Snake animation" />
+
 
 <div align="center">
   <img height="277" src="https://i.ibb.co/b119DKK/200w.gif"  />
